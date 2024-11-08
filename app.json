@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "Paste here session id that you have scanned",
       "required": true,
-      "value": ""
+      "value": "Bmwmd$mTdUkuuY"
     },
     "MODE": {
       "description": "Enter true for public. false for private",
@@ -55,7 +55,7 @@
     "PREFIX": {
       "description": "Enter your bot prefix eg .,+@#$¶∆×π",
       "required": false,
-      "value": ""
+      "value": "."
     }
     },
     "buildpacks": [
